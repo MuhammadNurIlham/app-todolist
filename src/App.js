@@ -18,7 +18,7 @@ function App() {
       {/* <LandingPage /> */}
       <Routes>
         <Route exact path="/" element={<LandingPage />}></Route>
-        <Route exact path="/todolist-app" element={<LandingPage />}></Route>
+        <Route exact path="/app-todolist" element={<LandingPage />}></Route>
       </Routes>
       <Routes>
         <Route exact path="/create-todolist" element={<TodoList />}></Route>
