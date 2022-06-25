@@ -1,7 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import todo from '../components/assets/todo.jpg';
-import ClickButton from './button';
 import { useNavigate } from 'react-router-dom';
 
 

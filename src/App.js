@@ -14,9 +14,9 @@ import LandingPage from './landingPage/LandingPage';
 function App() {
   return (
     <BrowserRouter>
+      <NavigationBar />
+      {/* <LandingPage /> */}
       <Routes>
-        <NavigationBar />
-        <LandingPage />
         <Route exact path="/" element={<LandingPage />}></Route>
         <Route exact path="/todolist-app" element={<LandingPage />}></Route>
       </Routes>
@@ -29,7 +29,6 @@ function App() {
       <Project />
       <ExampleCrud />
       <Footer /> */}
-
     </BrowserRouter>
   );
 }

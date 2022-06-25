@@ -21,6 +21,7 @@ function CreateTask({ modal, toggle, save }) {
         taskObj["Name"] = taskName
         taskObj["Description"] = description
         save(taskObj)
+        window.location.reload()
     }
 
     return (

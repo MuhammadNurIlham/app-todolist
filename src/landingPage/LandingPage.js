@@ -4,6 +4,7 @@ import SectionIntro from '../components/section';
 import Footer from '../components/footer';
 import Project from '../components/projects';
 import ExampleCrud from '../components/example';
+// import TodoList from '../components/TodoList copy';
 
 function LandingPage() {
     return (

@@ -54,7 +54,7 @@ const TodoList = () => {
         <div className='container'>
             <div className='row justify-content-start'>
                 <div className='col-lg-6 mb-3'>
-                    <div className="card todolist-title py-2 px-3 mt-4">
+                    <div className="card todolist-title py-2 px-3 mt-1">
                         <h5 className="card-title mb-3">Aku mau ngapain hari ini...</h5>
                         <h6 className="card-subtitle mb-2 text-muted">{moment(dateTime).format('MMMM Do YYYY, h:mm:ss a')}</h6>
                         {/* <h6 className="card-subtitle mb-2 text-muted">{dateNow}</h6>

@@ -14,35 +14,30 @@ function Project() {
                     <div className='col-lg-4 mb-3'>
                         <div className="card p-3 example-project h-100">
                             <h5 className="card-title mb-3">Meeting with CEO</h5>
-                            {/* <h6 className="card-subtitle mb-2 text-muted">June 20, 2022</h6> */}
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                     <div className='col-lg-4 mb-3'>
                         <div className="card p-3 example-project h-100">
                             <h5 className="card-title mb-3">Digital Marketing</h5>
-                            {/* <h6 className="card-subtitle mb-2 text-muted">June 20, 2022</h6> */}
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                     <div className='col-lg-4 mb-3'>
                         <div className="card p-3 example-project h-100">
                             <h5 className="card-title mb-3">Learn Concept Artificial Intelligence</h5>
-                            {/* <h6 className="card-subtitle mb-2 text-muted">June 20, 2022</h6> */}
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                     <div className='col-lg-4 mb-3'>
                         <div className="card p-3 example-project h-100">
                             <h5 className="card-title mb-3">Meeting John Doe</h5>
-                            {/* <h6 className="card-subtitle mb-2 text-muted">June 20, 2022</h6> */}
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                     <div className='col-lg-4 mb-3'>
                         <div className="card p-3 example-project h-100">
                             <h5 className="card-title mb-3">Meeting With CTO</h5>
-                            {/* <h6 className="card-subtitle mb-2 text-muted">June 20, 2022</h6> */}
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
